@@ -1,0 +1,8 @@
+Release: 0.0.3
+
+Changes since 0.0.2:
+* Updated for Raphael 1.0RC1.2
+* Made code more object-oriented
+* Changed API to be accessed via graf.somefunction() rather than graf().somefunction()
+* Moved to GitHub
+
